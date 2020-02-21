@@ -1,3 +1,4 @@
+[![Build Status](http://rv-0075/Tailspin/Space%20Game%20-%20web/_apis/build/status/Space%20Game%20-%20web-ASP.NET%20Core-CI)](http://rv-0075/Tailspin/Space%20Game%20-%20web/_build/latest?definitionId=5)
 
 # Contributing
 
